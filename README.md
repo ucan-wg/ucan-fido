@@ -11,8 +11,8 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 ## Dependencies
 
 * [UCAN](https://github.com/ucan-wg/spec)
-* [CACAO](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-74.md)
 * [UCAN Canonicalization](https://github.com/ucan-wg/canonicalization/)
+* [FIDO2 UAF](https://fidoalliance.org/specs/fido-uaf-v1.2-ps-20201020/fido-uaf-protocol-v1.2-ps-20201020.html)
 
 # 0 Abstract
 
